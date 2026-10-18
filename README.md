@@ -27,3 +27,7 @@ Install
    programs, use the executable packaging option below.
 3. Restart Wireshark. Look for “FRITZ!Box remote capture”.
 
+List of all Available interfaces here
+https://github.com/jpluimers/fritzcap/blob/master/fritzcap-interfaces-table.md
+
+credits goes to the user @Rob--W
