@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Packaging/build output
+build/
+dist/
+*.spec
+
+# Local environment/editor files
+.venv/
+venv/
+.env
+.vscode/
+.idea/
+
+# Sensitive capture/config data
+*.pcap
+*.pcapng
+*.cap
